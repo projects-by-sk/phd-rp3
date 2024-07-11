@@ -1,0 +1,501 @@
+AWP-Sentence,Type-of-Sentence
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 15 books,beforeState
+Daniel now has 40 books,afterState
+Daniel gave him 12 books,transferState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 red balloons,beforeState
+Sara now has 8.0 red balloons,afterState
+How many red balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+Joan now has 6.0 seashells,afterState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+Sandy now has 6.0 carrots,afterState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally now has 5.0 blue balloons,afterState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Melanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Sara grew 14.0 onions,beforeState
+Sally grew 8.0 onions,beforeState
+Tom now has 17 apples, afterState
+Fred grew 14.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+Bob now has 17 books, afterState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+Keith has 20.0 books,beforeState
+Mike now has 14 pencils, afterState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Mike now has 2 pens, afterState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Sara now has 17 oranges, afterState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Sally now has 15 cookies, afterState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Sally had 27.0 Pokemon cards, beforeState
+Dan gave her 41.0 new Pokemon cards, transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally had 27.0 Pokemon cards, beforeState
+Dan gave her 41.0 new Pokemon cards, transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally bought 20.0 Pokemon cards,beforeState
+Sally bought 20.0 Pokemon cards,beforeState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Joan now has 28 dimes, afterState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Sally had 27.0 Pokemon cards, beforeState
+Dan gave her 41.0 new Pokemon cards, transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally had 27.0 Pokemon cards, beforeState
+Dan gave her 41.0 new Pokemon cards, transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+She now has 5.0 cookies,afterState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan now has 37.0 oranges,afterState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Sandy has 10.0 books,beforeState
+Benny now has 4.0 books,afterState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith now has 7.0 pears,afterState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Sally had 27.0 Pokemon cards, beforeState
+Dan gave her 41.0 new Pokemon cards, transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally had 27.0 Pokemon cards, beforeState
+Dan gave her 41.0 new Pokemon cards, transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Tim now has 17 marbles, afterState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+Joan now has 6.0 seashells,afterState
+Jessica found 8.0 seashells on the beach,beforeState
