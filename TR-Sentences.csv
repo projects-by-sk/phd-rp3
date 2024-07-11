@@ -1,0 +1,31 @@
+NormalSentence,ProcessedSentence,fromAgent,toAgent,Qvalue,Qtype
+Stephen gave 2.0 books to Daniel,Agent1 gave number3 type1 to Agent2,Agent1,Agent2,number3,type1
+Joan gave Sam some of her seashells, Agent1 gave Agent2 some of her type1,Agent1,Agent2,unknown,type1
+His dad gave him 7.0 dimes, Agent2 gave Agent1 number2 type1,Agent2,Agent1,number2,type1
+She gave 7.0 puppies to her friends, Agent1 gave number1 type1 to Agent2,Agent1,Agent2,number1,type1
+He gave 3.0 kittens to Jessica, Agent1 gave number1 type1 to Agent2,Agent1,Agent2,number1,type1
+He gave 6.0 kittens to Sara, Agent1 gave number2 type1 to Agent2,Agent1,Agent2,number2,type1
+Her dad gave her 8.0 dimes, Agent2 gave Agent1 number2 type1,Agent2,Agent1,number2,type1
+her mother gave her 4.0 dimes, Agent3 gave Agent1 number3 type1,Agent3,Agent1,number3,type1
+Dan gave Jessica some of his seashells, Agent1 gave Agent2 some of his type1,Agent1,Agent2,unknown,type1
+His sister borrowed 3.0 of his dimes, Agent2 borrowed number2 of Agent1 type1,Agent1,Agent2,number2,type1
+She gave 2.0 to her friends, Agent1 gave number2 type1 to Agent2,Agent1,Agent2,number2,type1
+Sam gave Joan 18.0 of the seashells, Agent1 gave Agent2 number2 of the type1,Agent1,Agent2,number2,type1
+Dan gave Mary 14.0 of the violet marbles, Agent1 gave Agent2 number2 of the type1,Agent1,Agent2,number2,type1
+Joan gave Mike 63.0 of the seashells, Agent1 gave Agent2 number2 of the type1,Agent1,Agent2,number2,type1
+Agent1 gave Agent2 some of her seashells, Agent1 gave Agent2 unknown of her type1,Agent1,Agent2,unknown,type1
+Agent1 gave 18.0 seashells to Agent2, Agent1 gave number2 type1 to Agent2,Agent1,Agent2,number2,type1
+Agent2 took 2.0 cupcakes from Agent1, Agent2 took number3 type1 from Agent1,Agent1,Agent2,number3,type1
+Agent1 took 4.0 cupcakes from Agent2, Agent1 took number3 type1 from Agent2,Agent2,Agent1,number3,type1
+Agent2 borrowed 8.0 dimes from Agent1, Agent2 borrowed number2 type1 from Agent1,Agent1,Agent2,number2,type1
+Agent1 borrowed 9.0 dimes from Agent2, Agent1 borrowed number2 type1 from Agent2,Agent2,Agent1,number2,type1
+Agent2 took 4.0 ice creams from Agent1, Agent2 took number2 type1 from Agent1,Agent1,Agent2,number2,type1
+Agent1 took 4.0 ice creams from Agent2, Agent1 took number2 type1 from Agent2,Agent2,Agent1,number2,type1
+Agent1 transferred some pennies to Agent2, Agent1 transferred unknown type1 to Agent2,Agent1,Agent2,unknown,type1
+Agent2 transferred some pennies to Agent1, Agent2 transferred unknown type1 to Agent1,Agent2,Agent1,unknown,type1
+Agent1 took some apples from Agent2, Agent1 took unknown type1 from Agent2,Agent2,Agent1,unknown,type1
+Agent2 took some apples from Agent1, Agent2 took unknown type1 from Agent1,Agent1,Agent2,unknown,type1
+Agent1 transferred 15.0 pennies to Agent2, Agent1 transferred number2 type1 to Agent2,Agent1,Agent2,number2,type1
+Agent2 transferred 35.0 pennies to Agent1, Agent2 transferred number2 type1 to Agent1,Agent2,Agent1,number2,type1
+Agent1 got 22.0 coins from Agent2, Agent1 got number2 type1 from Agent2,Agent2,Agent1,number2,type1
+Agent2 got 33.0 coins from Agent1, Agent2 got number2 type1 from Agent1,Agent1,Agent2,number2,type1
